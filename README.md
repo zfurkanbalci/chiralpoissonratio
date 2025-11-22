@@ -17,9 +17,9 @@ Each Excel file contains the complete output of the FEA simulations performed un
 
 📁 Files Included
 File Name	Description
-CChiral Veri Seti 20.09.2025 – 0.2 Mesh.xlsx	FEA results for mesh size = 0.20 mm
-CChiral Veri Seti 20.09.2025 – 0.25 Mesh.xlsx	FEA results for mesh size = 0.25 mm
-CChiral Veri Seti 20.09.2025 – 0.3 Mesh.xlsx	FEA results for mesh size = 0.30 mm
+chiral_metamaterial_FEdata_mesh0p20.xlsx	FEA results for mesh size = 0.20 mm
+chiral_metamaterial_FEdata_mesh0p25.xlsx	FEA results for mesh size = 0.25 mm
+chiral_metamaterial_FEdata_mesh0p20.xlsx	FEA results for mesh size = 0.30 mm
 
 All files contain the same variable structure and column definitions, enabling direct comparison across mesh sizes.
 
